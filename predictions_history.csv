@@ -1,0 +1,6 @@
+Date,Type,Air_temp,Process_temp,Rotational_speed,Torque,Tool_wear,Prediction,Risk_Score,Utilisateur
+2026-03-10 05:50:40,Low (L),300.0,310.0,1500,40.0,100,Normal,0.1%,admin
+2026-03-10 05:51:51,Low (L),300.0,313.3,1500,40.0,100,Normal,0.0%,admin
+2026-03-10 05:56:16,Low (L),300.0,310.0,1500,40.0,240,Normal,7.2%,admin
+2026-03-13 10:57:43,Low (L),300.0,310.0,2070,40.0,100,Normal,0.8%,admin
+2026-03-14 13:24:57,Low (L),300.0,310.0,1500,40.0,100,Normal,0.1%,admin

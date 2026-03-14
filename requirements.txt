@@ -1,8 +1,7 @@
-streamlit
-pandas
+streamlit==1.31.0
+pandas==2.2.0
+numpy
 plotly
+scikit-learn
 reportlab
 python-multipart
-scikit-learn
-numpy
-plotly.graph_objects

@@ -1,8 +1,0 @@
-streamlit
-pandas
-plotly
-reportlab
-python-multipart
-scikit-learn
-numpy
-plotly.graph_objects
